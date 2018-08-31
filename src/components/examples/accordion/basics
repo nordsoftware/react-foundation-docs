@@ -1,0 +1,10 @@
+<div className="accordion-basics-example">
+  <Accordion>
+    <AccordionItem key="cate" isActive>
+      <AccordionTitle>Cate</AccordionTitle>
+      <AccordionContent isActive>
+        <div>Cate eat doges for dinner</div>
+      </AccordionContent>
+    </AccordionItem>
+  </Accordion>
+</div>
