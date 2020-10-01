@@ -6,10 +6,10 @@ module.exports = {
   },
   output: {
     path: path.resolve(__dirname, '../dist'),
-    filename: '[name].[hash].js',
+    filename: 'react-foundation-docs/[name].[hash].js',
     publicPath: '/',
-    sourceMapFilename: '[name].[hash].js.map',
-    chunkFilename: '[id].chunk.js'
+    sourceMapFilename: 'react-foundation-docs/[name].[hash].js.map',
+    chunkFilename: 'react-foundation-docs/[id].chunk.js'
   },
   resolve: {
     extensions: ['.js']
