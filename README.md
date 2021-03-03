@@ -43,3 +43,7 @@ Run the following command to run lint the code:
 ```
 npm lint
 ```
+
+## Credits
+
+* Thanks to [Nord Software](https://twitter.com/nordsoftware) and [Digia](https://digia.com/en/) for sponsoring initial development.
